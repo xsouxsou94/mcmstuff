@@ -1,4 +1,4 @@
-| Release | Full Version | GUID | Size (MB) | Links | Release Date |
+| Release | Full Version | GUID | CAB Size (MB) | Links | Release Date |
 |----------|--------------|------|-----------|--------|--------------|
 | 2603 | 5.0.9146.1013 | 268DA03D-30BC-4E1C-916F-28D17D095AEA | 440.0 | https://go.microsoft.com/fwlink/?LinkID=2355991 | May 27, 2026 |
 | 2603 HF | 5.0.9146.1017 | E221CBD1-EB39-4FD1-8E40-279F53A3251A | 80.1 | https://aka.ms/KB37942646 | June 2, 2026 |
